@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\code",
+    "\\app\\code\\community",
+    "\\app\\code\\community\\SmartIT",
+    "\\app\\code\\community\\SmartIT\\ReplicateOptions",
+    "\\app\\code\\community\\SmartIT\\ReplicateOptions\\controllers",
+    "\\app\\code\\community\\SmartIT\\ReplicateOptions\\etc",
+    "\\app\\code\\community\\SmartIT\\ReplicateOptions\\Helper"
+  ],
+  "PreviewInSolutionExplorer": false
+}
