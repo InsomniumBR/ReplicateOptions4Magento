@@ -1,5 +1,7 @@
 <?php
 
+ini_set('memory_limit', '1024M');
+
 class SmartIT_ReplicateOptions_Model_Observer
 {
 	private $oConfig;
