@@ -9,7 +9,8 @@ It's a simple extension that copies all options and choices from one source prod
 
 1. Save a backup of your Magento install.
 2. Upload app folder to magento root.
-3. Configure and *ENABLE IT*!
+3. Clean cache, log out/login on admin.
+4. Configure and *ENABLE IT*!
 
 ## Configuring
 
@@ -30,7 +31,7 @@ Just access* this URL: http://magentoroot/replicateoptions
 
 *The process runs for a while before outputing the result. So, please wait! Test it on a few products before doing a large change and see the expected results.
 
-You can use filters directly on the URL too. The parameters that are not filled on the URL will be filled with the default configurations.
+You can use filters directly on the URL too. The parameters that are not filled on the URL will be filled with the default configurations. You can use a target and source parameter simultaneously.
 
 *Samples:*
 
